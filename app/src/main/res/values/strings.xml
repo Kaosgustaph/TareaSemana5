@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Petgram</string>
+    <string name="name_pet1">Gordi</string>
+    <string name="rate_pet1">5</string>
+    <string name="mContact">Contacto</string>
+    <string name="mAbout">Acerca de</string>
+    <string name="fNombre">Nombre</string>
+    <string name="fCorreo">Correo</string>
+    <string name="fMensaje">Mensaje</string>
+    <string name="btnEnviar">Enviar Comentario</string>
+    <string name="about_title">Acerca de mi...</string>
+    <string name="about_content">himarquez =)
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
